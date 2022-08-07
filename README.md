@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @srabhine
-- 👀 I’m interested in Datasciences and Quantitative Finance
-- 🌱 I’m currently learning Quantitative finance 
-- 💞️ I’m looking to collaborate on Finance project combined with data sciences 
 - 📫 How to reach me: Mail -> s.rabhine@gmail.com
 
 <!---
