@@ -1,4 +1,4 @@
-- 📫 How to reach me: Mail -> s.rabhine@gmail.com
+- 📫 How to reach me: s.rabhine@gmail.com
 
 <!---
 srabhine/srabhine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
