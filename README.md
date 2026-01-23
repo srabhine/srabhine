@@ -20,9 +20,9 @@
 Hi, I'm **Sammy**. I am currently a **Master 2 Student in Applied Mathematics** at **Université Paris Dauphine - PSL**.
 
 - I’m currently working on **Quantitative Finance & Algo Trading projects**.
-- My main interests are **Machine Learning**, **Stochastic Calculus** and **Deep Learning**.
-- I constantly study papers on the state of the arts on **Machine Learning** and **Quantitative Finance**.
-- I’m looking to collaborate on **Open source Quant libraries**.
+- My main interests are **Machine Learning**, **Alpha Search** and **Deep Learning**.
+- I constantly study state of the arts papers on **Machine Learning** and **Quantitative Finance**.
+- I’m looking to collaborate on **Open source Quant projects**.
 
 ---
 
